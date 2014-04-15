@@ -90,19 +90,18 @@ Both Python and C++ versions use the same input and output formats.
 5. Contribution
 ---------------
 
-	Ananth Murthy
-	-------------
-	- implemented Python version
-	- implemented the algorithm in C++
-	- wrote sections 1-3 of this README
-	- wrote testcases and expected output 2, 4    (negative testcases)
-
+Ananth Murthy
+-------------
+- implemented Python version
+- implemented the algorithm in C++
+- wrote sections 1-3 of this README
+- wrote testcases and expected output 2, 4    (negative testcases)
 	Chandan Yeshwanth
-	-----------------
-	- implemented C++ Distance class
-	- implemented display of shortest paths
-	- wrote sections 4-6 of this README
-	- wrote testcases and expected output 1, 3, 5 (positive testcases)
+-----------------
+- implemented C++ Distance class
+- implemented display of shortest paths
+- wrote sections 4-6 of this README
+- wrote testcases and expected output 1, 3, 5 (positive testcases)
 
 
 6. References
