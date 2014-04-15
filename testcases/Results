@@ -1,0 +1,7 @@
+Testcase      Result
+--------   -------------
+   1           PASS
+   2           FAIL - input has negative cycle, output shows error message as expected
+   3           PASS
+   4           FAIL - input has negative cycle, output shows error message as expected
+   5           PASS
